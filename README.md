@@ -1,5 +1,3 @@
-# walkagift
-
 # Project Name
 **Home Daz**
 ## Description
