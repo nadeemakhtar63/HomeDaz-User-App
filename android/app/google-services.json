@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "48003234271",
+    "project_id": "homedez-e63f4",
+    "storage_bucket": "homedez-e63f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48003234271:android:5484f2aa15cec33f5aec6a",
+        "android_client_info": {
+          "package_name": "com.example.home_daz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48003234271-5vjji7428fm30bqiu59cumskotf71ff8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.home_daz",
+            "certificate_hash": "a38de1ef276028a7630ab375ded9b844a079d057"
+          }
+        },
+        {
+          "client_id": "48003234271-t74id3qru2274u6t464uqcoaiv5n5b4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDni0-ifqQDt5_9UZG6Wp1KyYzhQyd2QM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48003234271-t74id3qru2274u6t464uqcoaiv5n5b4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
